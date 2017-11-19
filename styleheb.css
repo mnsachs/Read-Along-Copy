@@ -42,7 +42,9 @@ q {
     display: none;
 }
 .passage p {
-    line-height: 2.4em;
+    line-height: 1.4em;
+    font-size: 02em;
+}
 }
 .verse-start {
     line-height: 0;
